@@ -1,6 +1,5 @@
 List of the world's languages
 
-French
 Swahili
 Yoruba
 Spanish
@@ -11,3 +10,4 @@ good
 bad
 new change original repository
 combined old
+
