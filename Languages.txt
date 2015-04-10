@@ -7,3 +7,5 @@ Spanish
 Klingon
 Test
 Trial
+good
+bad
